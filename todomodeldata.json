@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Eggs",
+    "Description": "brown, not white",
+    "Qty": 1,
+    "DateTime": "2018-12-10T13:45:00.000Z",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Pancake Mix",
+    "Description": "The one with a picture of a bear on it!",
+    "Qty": 1,
+    "DateTime": "2018-12-10T13:45:00.000Z",
+    "IsDeleted": false
+  },
+  {
+    "Name": "C-batteries",
+    "Description": "Grab a couple packs",
+    "Qty": 2,
+    "DateTime": "2018-12-10T13:45:00.000Z",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Flour",
+    "Description": "whole wheat!",
+    "Qty": 2,
+    "DateTime": "2018-12-10T13:45:00.000Z",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Worlds best tasting beer",
+    "Description": "Grab a couple packs",
+    "Qty": 23,
+    "DateTime": "2018-12-10T13:45:00.000Z",
+    "IsDeleted": true
+  }
+]
+
