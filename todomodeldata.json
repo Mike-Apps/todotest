@@ -29,9 +29,9 @@
   },
   {
     "Name": "Flour",
-    "Description": "Description: whole wheat!",
-    "Qty": 834,
-    "DateTime": "2022-11-10T12:08:09.5407015-08:00",
+    "Description": "Description: Description: whole wheat!",
+    "Qty": 622,
+    "DateTime": "2022-11-10T17:24:40.6733614-08:00",
     "IsDeleted": false
   }
 ]
