@@ -21,17 +21,17 @@
     "IsDeleted": false
   },
   {
-    "Name": "C-batteries",
-    "Description": "Description: stuff",
-    "Qty": 223,
-    "DateTime": "2022-11-10T12:03:06.9791962-08:00",
-    "IsDeleted": false
-  },
-  {
     "Name": "Flour",
     "Description": "Description: Description: whole wheat!",
     "Qty": 622,
     "DateTime": "2022-11-10T17:24:40.6733614-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "C-batteries",
+    "Description": "Description: Description: stuff",
+    "Qty": 1,
+    "DateTime": "2022-11-10T17:24:57.7998536-08:00",
     "IsDeleted": false
   }
 ]
