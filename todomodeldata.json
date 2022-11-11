@@ -1,12 +1,5 @@
 [
   {
-    "Name": "Tester!!",
-    "Description": "brown, not white",
-    "Qty": 1,
-    "DateTime": "2018-12-10T13:45:00Z",
-    "IsDeleted": false
-  },
-  {
     "Name": "Worlds best tasting beer",
     "Description": "Grab a couple packs",
     "Qty": 23,
@@ -32,6 +25,13 @@
     "Description": "Description: Description: Description: Description: stuff",
     "Qty": 1,
     "DateTime": "2022-11-10T17:25:39.1262346-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Tester!!",
+    "Description": "Description: Description: brown, not white",
+    "Qty": 223,
+    "DateTime": "2022-11-10T17:37:58.0328151-08:00",
     "IsDeleted": false
   }
 ]
