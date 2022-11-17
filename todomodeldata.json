@@ -13,11 +13,10 @@
     "DateTime": "2022-11-17T12:58:36.577694-08:00",
     "IsDeleted": false
   },
-  
   {
-    "Name": "Flour",
+    "Name": "Love",
     "Description": "Description: Description: whole wheat!",
-    "Qty": 692,
+    "Qty": 0,
     "DateTime": "2022-11-17T12:54:40.3873054-08:00",
     "IsDeleted": false
   },
