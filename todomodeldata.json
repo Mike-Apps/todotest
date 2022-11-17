@@ -1,12 +1,5 @@
 [
   {
-    "Name": "C-batteries",
-    "Description": "Grab a couple packs",
-    "Qty": 2,
-    "DateTime": "2018-12-10T13:45:00Z",
-    "IsDeleted": false
-  },
-  {
     "Name": "Flour",
     "Description": "whole wheat!",
     "Qty": 2,
