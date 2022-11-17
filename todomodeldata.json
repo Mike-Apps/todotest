@@ -1,12 +1,5 @@
 [
   {
-    "Name": "Pancake Mix",
-    "Description": "The one with a picture of a bear on it!",
-    "Qty": 1,
-    "DateTime": "2018-12-10T13:45:00Z",
-    "IsDeleted": false
-  },
-  {
     "Name": "C-batteries",
     "Description": "Grab a couple packs",
     "Qty": 2,
