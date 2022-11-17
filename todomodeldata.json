@@ -1,12 +1,5 @@
 [
   {
-    "Name": "Flour",
-    "Description": "Description: Description: whole wheat!",
-    "Qty": 692,
-    "DateTime": "2022-11-17T12:54:40.3873054-08:00",
-    "IsDeleted": false
-  },
-  {
     "Name": "Tester!!",
     "Description": "Description: Description: brown, not white",
     "Qty": 2,
