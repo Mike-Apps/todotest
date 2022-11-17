@@ -7,80 +7,80 @@
     "IsDeleted": true
   },
   {
+    "Name": "Flour",
+    "Description": "Description: Description: whole wheat!",
+    "Qty": 692,
+    "DateTime": "2022-11-17T12:54:40.3873054-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Tester!!",
+    "Description": "Description: Description: brown, not white",
+    "Qty": 2,
+    "DateTime": "2022-11-17T12:58:36.577694-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "C-batteries",
+    "Description": "Description: Description: Description: Description: stuff",
+    "Qty": 22,
+    "DateTime": "2022-11-17T13:05:32.8797573-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Worlds best tasting beer",
+    "Description": "Grab a couple packs",
+    "Qty": 23,
+    "DateTime": "2018-12-10T13:45:00Z",
+    "IsDeleted": true
+  },
+  {
+    "Name": "Flour",
+    "Description": "Description: Description: whole wheat!",
+    "Qty": 692,
+    "DateTime": "2022-11-17T12:54:40.3873054-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Tester!!",
+    "Description": "Description: Description: brown, not white",
+    "Qty": 2,
+    "DateTime": "2022-11-17T12:58:36.577694-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "C-batteries",
+    "Description": "Description: Description: Description: Description: stuff",
+    "Qty": 22,
+    "DateTime": "2022-11-17T13:05:32.8797573-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Worlds best tasting beer",
+    "Description": "Grab a couple packs",
+    "Qty": 23,
+    "DateTime": "2018-12-10T13:45:00Z",
+    "IsDeleted": true
+  },
+  {
+    "Name": "Flour",
+    "Description": "Description: Description: whole wheat!",
+    "Qty": 692,
+    "DateTime": "2022-11-17T12:54:40.3873054-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Worlds best tasting beer",
+    "Description": "Grab a couple packs",
+    "Qty": 23,
+    "DateTime": "2018-12-10T13:45:00Z",
+    "IsDeleted": true
+  },
+  {
     "Name": "Pancake Mix",
     "Description": "Description: Description: The one with a picture of a bear on it!",
-    "Qty": 3,
-    "DateTime": "2022-11-10T12:02:42.8009922-08:00",
+    "Qty": 30,
+    "DateTime": "2022-11-17T13:12:05.0895009-08:00",
     "IsDeleted": false
-  },
-  {
-    "Name": "Flour",
-    "Description": "Description: Description: whole wheat!",
-    "Qty": 692,
-    "DateTime": "2022-11-17T12:54:40.3873054-08:00",
-    "IsDeleted": false
-  },
-  {
-    "Name": "Tester!!",
-    "Description": "Description: Description: brown, not white",
-    "Qty": 2,
-    "DateTime": "2022-11-17T12:58:36.577694-08:00",
-    "IsDeleted": false
-  },
-  {
-    "Name": "C-batteries",
-    "Description": "Description: Description: Description: Description: stuff",
-    "Qty": 22,
-    "DateTime": "2022-11-17T13:05:32.8797573-08:00",
-    "IsDeleted": false
-  },
-  {
-    "Name": "Worlds best tasting beer",
-    "Description": "Grab a couple packs",
-    "Qty": 23,
-    "DateTime": "2018-12-10T13:45:00Z",
-    "IsDeleted": true
-  },
-  {
-    "Name": "Flour",
-    "Description": "Description: Description: whole wheat!",
-    "Qty": 692,
-    "DateTime": "2022-11-17T12:54:40.3873054-08:00",
-    "IsDeleted": false
-  },
-  {
-    "Name": "Tester!!",
-    "Description": "Description: Description: brown, not white",
-    "Qty": 2,
-    "DateTime": "2022-11-17T12:58:36.577694-08:00",
-    "IsDeleted": false
-  },
-  {
-    "Name": "C-batteries",
-    "Description": "Description: Description: Description: Description: stuff",
-    "Qty": 22,
-    "DateTime": "2022-11-17T13:05:32.8797573-08:00",
-    "IsDeleted": false
-  },
-  {
-    "Name": "Worlds best tasting beer",
-    "Description": "Grab a couple packs",
-    "Qty": 23,
-    "DateTime": "2018-12-10T13:45:00Z",
-    "IsDeleted": true
-  },
-  {
-    "Name": "Flour",
-    "Description": "Description: Description: whole wheat!",
-    "Qty": 692,
-    "DateTime": "2022-11-17T12:54:40.3873054-08:00",
-    "IsDeleted": false
-  },
-  {
-    "Name": "Worlds best tasting beer",
-    "Description": "Grab a couple packs",
-    "Qty": 23,
-    "DateTime": "2018-12-10T13:45:00Z",
-    "IsDeleted": true
   }
 ]
