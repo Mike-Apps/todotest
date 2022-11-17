@@ -14,13 +14,6 @@
     "IsDeleted": false
   },
   {
-    "Name": "C-batteries",
-    "Description": "Description: Description: Description: Description: stuff",
-    "Qty": 1,
-    "DateTime": "2022-11-10T17:25:39.1262346-08:00",
-    "IsDeleted": false
-  },
-  {
     "Name": "Flour",
     "Description": "Description: Description: whole wheat!",
     "Qty": 692,
@@ -32,6 +25,13 @@
     "Description": "Description: Description: brown, not white",
     "Qty": 2,
     "DateTime": "2022-11-17T12:58:36.577694-08:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "C-batteries",
+    "Description": "Description: Description: Description: Description: stuff",
+    "Qty": 223,
+    "DateTime": "2022-11-17T13:05:08.9336072-08:00",
     "IsDeleted": false
   }
 ]
