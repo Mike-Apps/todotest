@@ -19,12 +19,5 @@
     "Qty": 1,
     "DateTime": "2022-10-25T15:43:11.2887431-07:00",
     "IsDeleted": false
-  },
-  {
-    "Name": "Pancake Mix",
-    "Description": "The one with a picture of a bear on it!",
-    "Qty": 100,
-    "DateTime": "2022-11-17T14:55:22.0146242-08:00",
-    "IsDeleted": false
   }
 ]
