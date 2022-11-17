@@ -19,12 +19,5 @@
     "Qty": 0,
     "DateTime": "2022-11-17T12:54:40.3873054-08:00",
     "IsDeleted": false
-  },
-  {
-    "Name": "Worlds best tasting beer",
-    "Description": "Grab a couple packs",
-    "Qty": 23,
-    "DateTime": "2018-12-10T13:45:00Z",
-    "IsDeleted": true
-  },
+  }
 ]
