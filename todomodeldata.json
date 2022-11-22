@@ -12,5 +12,12 @@
     "Qty": 2,
     "DateTime": "2022-11-21T18:57:06.2229611-08:00",
     "IsDeleted": false
+  },
+  {
+    "Name": "chicken stock ",
+    "Description": "",
+    "Qty": 2,
+    "DateTime": "2022-11-21T18:58:45.5897105-08:00",
+    "IsDeleted": false
   }
 ]
