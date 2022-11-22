@@ -12,5 +12,12 @@
     "Qty": 23,
     "DateTime": "2018-12-10T13:45:00Z",
     "IsDeleted": true
+  },
+  {
+    "Name": "cleaner",
+    "Description": "the pink stuff that I can squirt on the counter.",
+    "Qty": 2,
+    "DateTime": "2022-11-21T18:57:06.2229611-08:00",
+    "IsDeleted": false
   }
 ]
