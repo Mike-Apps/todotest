@@ -12,12 +12,5 @@
     "Qty": 23,
     "DateTime": "2018-12-10T13:45:00Z",
     "IsDeleted": true
-  },
-  {
-    "Name": "mike",
-    "Description": "gg",
-    "Qty": 2,
-    "DateTime": "2022-11-21T15:20:28.0515078-08:00",
-    "IsDeleted": false
   }
 ]
