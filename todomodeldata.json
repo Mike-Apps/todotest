@@ -26,12 +26,5 @@
     "Qty": 1,
     "DateTime": "2022-11-22T18:13:22.5386425-08:00",
     "IsDeleted": false
-  },
-  {
-    "Name": "Cat Food",
-    "Description": "",
-    "Qty": 1,
-    "DateTime": "2022-11-22T18:14:02.8191037-08:00",
-    "IsDeleted": false
   }
 ]
